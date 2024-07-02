@@ -53,11 +53,11 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/images/about-image.png" width={500} height={500} />
+        <Image src="/images/about-image.png" alt="" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          Welcome! I'm Johanna, a passionate and experienced online English tutor committed to helping students of all ages and backgrounds achieve fluency and confidence in English. With an extensive background in the language, I offer personalized and engaging lessons tailored to each student's unique needs and goals. Whether you're preparing for exams, improving your conversational skills, or advancing your professional communication, I'm here to support your journey. Let's work together to unlock your full potential and achieve your language learning objectives.
+          Welcome! I&apos;m Johanna &lsquo;a passionate and experienced online English tutor committed to helping students of all ages and backgrounds achieve fluency and confidence in English. With an extensive background in the language&lsquo; I offer personalized and engaging lessons tailored to each student&apos;s unique needs and goals. Whether you&apos;re preparing for exams&lsquo; improving your conversational skills, or advancing your professional communication&lsquo; I&apos;m here to support your journey. Let&apos;s work together to unlock your full potential and achieve your language learning objectives.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
