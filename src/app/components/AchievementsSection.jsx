@@ -18,7 +18,7 @@ const achievementsList = [
   {
     prefix: "~",
     metric: "hours",
-    value: "100,000",
+    value: "10,000",
   },
   {
     metric: "students",
