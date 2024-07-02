@@ -32,9 +32,8 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">            
+                As an experienced online English tutor, I am dedicated to helping students achieve fluency and confidence through personalized and engaging lessons.
           </p>
           <div>
             <Link
